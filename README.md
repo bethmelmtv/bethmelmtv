@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-👋 Hi, I’m Beth!
-👀 I’m interested in developing React apps!   
-🌱 I’m currently learning how to build a backend using postgres/express
-💞️ I’m looking to collaborate on anything with React
-📫 How to reach me : melessebethlehem@gmail.com
+👋 Hi, I’m Beth!  
+👀 I’m interested in developing React apps!  
+🌱 I’m currently learning how to build a backend using postgres/express. 
+💞️ I’m looking to collaborate on anything with React. 
+📫 How to reach me : melessebethlehem@gmail.com. 
