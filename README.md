@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 🌱 I’m currently learning how to build a backend using postgres/express. <br/>
 💞️ I’m looking to collaborate on anything with React.  <br/>
 📫 How to reach me : melessebethlehem@gmail.com.  <br/>
+
+
+• Languages:JavaScript, HTML/CSS, Python, React.js, Express
+• Tools: Git, Slack, GitHub, PostgreSQL
+• Dev Practices: TDD
