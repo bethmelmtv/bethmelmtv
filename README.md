@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 📫 How to reach me : melessebethlehem@gmail.com.  <br/>
 
 
-• Languages:JavaScript, HTML/CSS, Python, React.js, Express
-• Tools: Git, Slack, GitHub, PostgreSQL
-• Dev Practices: TDD
+• Languages:JavaScript, HTML/CSS, Python, React.js, Express <br/>
+• Tools: Git, Slack, GitHub, PostgreSQL <br/>
+• Dev Practices: TDD <br/>
