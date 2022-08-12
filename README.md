@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 📫 How to reach me : melessebethlehem@gmail.com or my linkedin:https://www.linkedin.com/in/bethmel/  <br/>
 
 
-• Languages:JavaScript, HTML/CSS, Python, React.js, Express <br/>
+• Languages:JavaScript, HTML/CSS, Python, React.js, Express, Node.js <br/>
 • Tools: Git, Slack, GitHub, PostgreSQL <br/>
 • Dev Practices: TDD <br/>
