@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 👀 I’m interested in developing React apps!  <br/>
 🌱 I’m currently learning how to build a backend using postgres/express. <br/>
 💞️ I’m looking to collaborate on anything with React.  <br/>
-📫 How to reach me : melessebethlehem@gmail.com or my linkedin:https://www.linkedin.com/in/bethmel/  <br/>
+📫 How to reach me : melessebethlehem@gmail.com or my linkedin:https://www.linkedin.com/in/bethmelmtv/  <br/>
 
 
 • Languages:JavaScript, HTML/CSS, Python, React.js, Express, Node.js <br/>
