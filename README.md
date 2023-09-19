@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-👋 Hi, I’m Beth! <br/>
+👋 Hi, I’m Lizzy! <br/>
 👀 I’m interested in developing React apps!  <br/>
 🌱 I’m currently learning how to build a backend using postgres/express. <br/>
 💞️ I’m looking to collaborate on anything with React.  <br/>
